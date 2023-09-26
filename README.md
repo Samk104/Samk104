@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Samujjwal Kumar.
 - 👀 I’m interested in software developement in general and mobile app developement in particular.
-- 🌱 I’m currently learning full stack developement.
-- 💞️ I’m looking to collaborate on interesting developement projects.
+- 🌱 I’m sharpening my mobile app development skillset.
+- 📝 I’m looking to collaborate on interesting developement projects.
 - 📫 Feel free to email me at kumarsamujjwal@gmail.com
 
 <!---
