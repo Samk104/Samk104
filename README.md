@@ -1,19 +1,22 @@
 ## 👋 Hi, I'm Sam
-An innovative computer science graduate with a passion for creative problem-solving and hands-on software development. My journey has taken me from building web and mobile applications in the industry to conducting award-winning machine learning research in academia. I believe that learning is a continuous journey, and I thrive in collaborative environments where fresh ideas are encouraged.
-
-## 🚀 Technical Skills
-- **Programming Languages:** Java, Python, JavaScript/TypeScript
-- **Frameworks and Libraries:** React.js, Next.js, Spring/Spring Boot
-- **Web and APIs:** HTML/CSS (Tailwind), Node.js, TCP/IP, REST, OAuth2.0
-- **Databases:** MySQL, PostgreSQL, MongoDB, Firebase
-- **Cloud Services:** AWS (EC2, CloudFront, EKS, CloudWatch, RDS, S3, Lambda, API Gateway, ELB)
-- **Infrastructure and Tools:** Docker, Terraform, Git, GitHub Actions, Kafka
-- **Concepts:** OOP, MVC, SDLC, Agile, Microservices, Gradle/Maven, CI/CD, Unix, Linux
+I’ve worked across software engineering and award-winning machine learning research, always looking for ways to learn, improve, and build better systems.
+My curiosity keeps me learning daily, pushing me to question assumptions, dig into problems, and engineer more thoughtful solutions.
+I thrive in environments that value exploration, collaboration, and continuous learning.
 
 ---
 
-Feel free to explore my repositories and connect with me! I'm always open to collaboration and new opportunities.
-<!---
-Samk104/Samk104 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 Technical Skills
+
+- **Programming Languages:** Java, Python, JavaScript/TypeScript  
+- **Frameworks & Libraries:** React.js, Next.js, Angular, Spring/Spring Boot  
+- **Web & APIs:** HTML/CSS (Tailwind), Node.js, TCP/IP, REST  
+- **Databases:** MySQL, PostgreSQL, MongoDB, Firebase  
+- **Cloud Services:** AWS (EC2, CloudFront, EKS, RDS, S3), Azure (SWA, Container Apps, PostgreSQL)  
+- **Infrastructure & Tools:** Docker (Compose), Kubernetes, Git, GitHub Actions  
+- **Machine Learning & Data Analysis:** Pandas, NumPy, Scikit-learn, MATLAB, Jupyter, Matplotlib, Seaborn, TensorFlow, CRISP-DM  
+- **Artificial Intelligence:** OLLAMA, Mistral, Retrieval-Augmented Generation (RAG)  
+- **Concepts & Practices:** OOP, MVC, SDLC, Agile, Microservices, Gradle/Maven, CI/CD, Unix/Linux  
+
+---
+
+Feel free to explore my repositories and connect with me: always open to building, collaborating, and learning something new.
